@@ -1,3 +1,3 @@
 # forkispoon Project
 
-REcipe application wirh custom uploads.
+Recipe application wirh custom uploads.
