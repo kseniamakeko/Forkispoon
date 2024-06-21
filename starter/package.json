@@ -10,7 +10,6 @@
   "author": "Ksenia Makeko",
   "license": "ISC",
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.12.0",
     "parcel": "^2.12.0",
     "sass": "^1.26.10"
   },
