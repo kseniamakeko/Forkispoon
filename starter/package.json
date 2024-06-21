@@ -5,8 +5,8 @@
   "default": "index.html",
   "scripts": {
     "clean": "rm -rf .parcel-cache",
-    "build": "parcel build index.html --dist-dir ./dist",
-    "start": "parcel index.html"
+    "build": "npx parcel build index.html --dist-dir ./dist",
+    "start": "npx parcel index.html"
   },
   "author": "Ksenia Makeko",
   "license": "ISC",
