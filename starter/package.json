@@ -6,7 +6,7 @@
   "scripts": {
     "clean": "rm -rf .parcel-cache",
     "build": "parcel build index.html --dist-dir ./dist",
-    "start": "parcel index.js"
+    "start": "parcel index.html"
   },
   "author": "Ksenia Makeko",
   "license": "ISC",
